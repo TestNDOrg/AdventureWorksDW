@@ -1,7 +1,9 @@
+
 SET QUOTED_IDENTIFIER ON
 GO
 SET ANSI_NULLS ON
 GO
+
 -- =============================================
 -- Author:		<Author,,Name>
 -- Create date: <Create Date,,>
@@ -10,5 +12,6 @@ GO
 CREATE PROCEDURE [dbo].[TestGit2]
 AS
 
-SELECT 'Test Git 2 srwrwfd'
+SELECT 'Test Git 2 67676srwrwfd'
+
 GO
